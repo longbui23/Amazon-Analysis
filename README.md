@@ -1,15 +1,25 @@
-PHONE SALES ON AMAZON:  
+# PHONE SALES ON AMAZON: SENTIMENT ANALYSIS AND STATISTICAL TESTING
 
-1. Motivation
+Author: Long Bui & Allisa Dao
 
+This repository contains the code and data for the a Sentiment Analysis project. The project aims to convert 90 Milions Plain Words into meaningful insights.
 
-2. Data Collection
+## 1. Project Overview
+The project consists of the following components:
+- Exploratory Analysis: The initial phase involves conducting exploratory analysis to uncover the distribution of demographics among customers and products. Secondly, we wnat to clean the data for further analysis.
+- 
+- Sentiment Analysis: The project utilizes NLTK, Textblob, TextVectorizer, Text2Emotion packages to transform raw words into statistics.
+- 
+- Biagram and Triagram: Explore pros/cons mentions by customers
 
+## 2. Data Collection
+  Data Link: https://www.kaggle.com/datasets/grikomsn/amazon-cell-phones-reviews
 
-3. Data Analysis
+## 4. Results
+The project's findings and insights are documented in the project report. 
 
+## 4. Contributing
+Contributions to this project are welcome. Feel free to open issues or submit pull requests for any enhancements or bug fixes.
 
-4. Audience
-
-
-5. Deliverables
+## 5. Contact
+For any inquiries or questions regarding the project, please contact me at builo@dickinson.edu
